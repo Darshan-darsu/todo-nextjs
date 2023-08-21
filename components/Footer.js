@@ -7,7 +7,7 @@ const Footer = () => {
     <footer class="container text-gray-400  body-font mycolor">
         {/* <p>{date}</p> */}
     {/*  */}
-    <p>Footer</p>
+    <p>Footers</p>
   </footer>
   )
 }
